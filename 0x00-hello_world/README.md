@@ -1,1 +1,1 @@
-My first hello world in C
+hello world C in linux ubuntu
