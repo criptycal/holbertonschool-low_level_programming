@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
 *Main function puts
 *return (0) always it's done
 */
