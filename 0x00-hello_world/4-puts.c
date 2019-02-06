@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <string.h>
 /*
- * main - puts function
- * return: Always 0 (sucess).
- */
+*Main function puts
+*return (0) always it's done
+*/
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
