@@ -1,9 +1,11 @@
 #include <stdio.h>
 #include <string.h>
-int main(void)/*main function*/
+/*
+ *main - entry point
+ *return: always 0 sucess
+ */
+int main(void)
 {
-char a[50];
-strcpy(a, "\"Programming is like building a multilingual puzzle");
-puts(a);
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
