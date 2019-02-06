@@ -1,8 +1,8 @@
 #include<stdio.h>
-/**
- *main - prints string
- *Return: Always 0 (Success)
- **/
+/*
+ *main - Prints String
+ *Return: Always 0 (Done)
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
