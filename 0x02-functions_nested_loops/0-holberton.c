@@ -1,15 +1,13 @@
-#include <stdio.h>
+#include "holberton.h"
 int main(void)
 {
-  putchar('H');
-  putchar('o');
-  putchar('l');
-  putchar('b');
-  putchar('e');
-  putchar('r');
-  putchar('t');
-  putchar('o');
-  putchar('n');
-  putchar('/n');
-  return (0);    
+  char holbertonSchool[]="Holberton\n";
+  int i=0;
+  while(i<12)
+    {
+      _putchar(holbertonSchool[i]);
+      i++;
+    }
+  return(0);
 }
+
