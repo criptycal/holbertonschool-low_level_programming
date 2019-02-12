@@ -1,14 +1,15 @@
 #include <stdio.h>
-
-int main()
+int main(void)
 {
-  char holbertonSchool [12] = "Holberton\n";
-  int i = 0;
-  while (i<=11)
-    {
-      putchar(holbertonSchool[i]);
-      i++;
-    }
-    
+  putchar('H');
+  putchar('o');
+  putchar('l');
+  putchar('b');
+  putchar('e');
+  putchar('r');
+  putchar('t');
+  putchar('o');
+  putchar('n');
+  putchar('/n');
   return (0);    
 }
