@@ -1,14 +1,8 @@
 #include <stdio.h>
 
-int main(void)
+int main()
 {
-  putcharFunction();
-  return(0);
-}
-
-int putcharFunction()
-{
-  char holbertonSchool [15] = "Holberton\n";
+  char holbertonSchool [12] = "Holberton\n";
   int i = 0;
   while (i<=11)
     {
